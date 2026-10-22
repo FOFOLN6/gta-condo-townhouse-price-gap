@@ -17,9 +17,10 @@ Many GTA buyers choose between a condo and a townhouse. Condo owners who want mo
 
 - **The townhouse premium tripled.** The average gap grew from **$45.7K in 2019 to $148.3K in 2025**. The price ratio went from 1.09 to 1.26.
 - **The extra monthly cost rose from about $224 to about $826** (25-year amortization, Canadian semi-annual compounding).
-- **Rising rates narrow the gap in the short run.** Raw monthly levels show r = +0.48, but that mostly reflects both series being high after 2022. After removing the long-run trend (12-month changes), the correlation is **r = −0.33**. When rates rise, the gap usually narrows.
-- **The gap reacts in about 2–3 months.** The strongest link is with the rate 2–3 months earlier (r = −0.39).
-- **Cheap money widened the gap most.** During the 2020–2022 low-rate period, the gap grew by **$140.9K**.
+- **The gap tended to narrow when rates rose.** Raw monthly levels show r = +0.48, but that mostly reflects both series being high after 2022. After removing the long-run trend (12-month changes), the correlation is **r = −0.33**.
+- **The link is strongest 2–3 months later** (r = −0.39 when the gap is compared with the rate 2–3 months earlier).
+- **The biggest jump came in the low-rate COVID period.** From March 2020 to February 2022, the gap grew by **$140.9K**. Record-low rates overlapped with COVID effects such as people moving out of the city and construction that started before COVID, so the two cannot be separated with this data.
+- **Mortgage rates are a key factor, but not the only one.** Without the COVID period, the correlation keeps its negative direction but weakens to **r = −0.16** and is no longer significant (p = 0.16). COVID-related factors explain part of the link.
 
 | Rate period | Rate change | Gap change |
 |---|---|---|
